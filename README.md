@@ -1,1 +1,1 @@
-# free-security
+# Free Security for Open-Source Projects
