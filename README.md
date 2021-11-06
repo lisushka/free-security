@@ -20,18 +20,18 @@
 ### Open-source tooling
 
 * **OWASP's application security testing tool lists** ([static](https://owasp.org/www-community/Source_Code_Analysis_Tools#) | [dynamic](https://owasp.org/www-community/Vulnerability_Scanning_Tools#))
-* [Checkov](https://www.checkov.io/) ([source code](https://www.github.com/bridgecrewio/checkov))
-* [Terrafirma](https://github.com/wayfair/terrafirma)
-* [Clair]()
-* [OWASP Dependency Check]()
-* [OWASP Dependency Track]()
-* [OWASP ZAP]()
-* [Wireshark](https://www.wireshark.org/) ([source code](https://gitlab.com/wireshark/wireshark))
-* [Kali Linux](https://www.kali.org/) ([source](https://www.kali.org/docs/general-use/kali-linux-sources-list-repositories/))
+* [**Checkov**](https://www.checkov.io/) ([source code](https://www.github.com/bridgecrewio/checkov))
+* [**Terrafirma**](https://github.com/wayfair/terrafirma)
+* [**Clair**](https://github.com/arminc/clair-scanner)
+* [**OWASP Dependency Check**](https://owasp.org/www-project-dependency-check/)
+* [**OWASP Dependency Track**](https://owasp.org/www-project-dependency-track/)
+* [**OWASP ZAP**](https://www.zaproxy.org/) ([source code](https://github.com/zaproxy/zaproxy))
+* [**Wireshark**](https://www.wireshark.org/) ([source code](https://gitlab.com/wireshark/wireshark))
+* [**Kali Linux**](https://www.kali.org/) ([source](https://www.kali.org/docs/general-use/kali-linux-sources-list-repositories/))
 
 ### Closed-source tooling
 
-* [Snyk](https://snyk.io/plans/)
-* [Debricked](https://debricked.com/) ([blog post on going free for OSS](https://debricked.com/blog/debricked-made-free-for-open-source-maintainers/))
+* [**Snyk**](https://snyk.io/plans/)
+* [**Debricked**](https://debricked.com/) ([blog post on going free for OSS](https://debricked.com/blog/debricked-made-free-for-open-source-maintainers/))
 
 [Back to main talks repo](https://github.com/lisushka/talks)
