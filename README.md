@@ -17,6 +17,23 @@
 * [GitLab's AppSec tools](https://docs.gitlab.com/ee/user/application_security/)
 * For secure or stripped-down Linux distributions with hardened kernels, research the current reccomendation at the time that you deploy your software.
 
+## Open-source secrets management
+
+#### One-off secure secrets sharing
+
+* [Yopass](https://yopass.se/)
+* [PrivateBin](https://privatebin.info/)
+* Open instances hosted by Seattle Matrix: [Yopass](https://yopass.seattlematrix.org/#/) | [PrivateBin](https://privatebin.seattlematrix.org/)
+
+#### Multi-user password management
+
+* [KeePass](https://keepass.info/) ([help article on setting up a database for multiple users](https://keepass.info/help/base/multiuser.html))
+* [vaultwarden](https://github.com/dani-garcia/vaultwarden) (centralised setup to share secrets within a group; compatible with the open-core of the Bitwarden password manager)
+
+#### Access token control for automation
+
+* [HashiCorp Vault](https://www.hashicorp.com/products/vault) ([source code](https://github.com/hashicorp/vault))
+
 ### Open-source tooling
 
 * **OWASP's application security testing tool lists** ([static](https://owasp.org/www-community/Source_Code_Analysis_Tools#) | [dynamic](https://owasp.org/www-community/Vulnerability_Scanning_Tools#))
