@@ -17,7 +17,7 @@
 * [GitLab's AppSec tools](https://docs.gitlab.com/ee/user/application_security/)
 * For secure or stripped-down Linux distributions with hardened kernels, research the current recommendation at the time that you deploy your software.
 
-## Open-source secrets management
+### Open-source secrets management
 
 #### One-off secure secrets sharing
 
