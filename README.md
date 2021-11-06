@@ -21,18 +21,18 @@
 
 #### One-off secure secrets sharing
 
-* [Yopass](https://yopass.se/)
-* [PrivateBin](https://privatebin.info/)
+* [**Yopass**](https://yopass.se/)
+* [**PrivateBin**](https://privatebin.info/)
 * Open instances hosted by Seattle Matrix: [Yopass](https://yopass.seattlematrix.org/#/) | [PrivateBin](https://privatebin.seattlematrix.org/)
 
 #### Multi-user password management
 
-* [KeePass](https://keepass.info/) ([help article on setting up a database for multiple users](https://keepass.info/help/base/multiuser.html))
-* [vaultwarden](https://github.com/dani-garcia/vaultwarden) (centralised setup to share secrets within a group; compatible with the open-core of the Bitwarden password manager)
+* [**KeePass**](https://keepass.info/) ([help article on setting up a database for multiple users](https://keepass.info/help/base/multiuser.html))
+* [**vaultwarden**](https://github.com/dani-garcia/vaultwarden) (centralised setup to share secrets within a group; compatible with the open-core of the Bitwarden password manager)
 
 #### Access token control for automation
 
-* [HashiCorp Vault](https://www.hashicorp.com/products/vault) ([source code](https://github.com/hashicorp/vault))
+* [**HashiCorp Vault**](https://www.hashicorp.com/products/vault) ([source code](https://github.com/hashicorp/vault))
 
 ### Open-source tooling
 
