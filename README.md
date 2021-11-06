@@ -15,7 +15,7 @@
 
 * [Dependabot](https://docs.github.com/en/code-security/supply-chain-security/keeping-your-dependencies-updated-automatically/keeping-your-actions-up-to-date-with-dependabot) ([core source code](https://github.com/dependabot/dependabot-core))
 * [GitLab's AppSec tools](https://docs.gitlab.com/ee/user/application_security/)
-* For secure or stripped-down Linux distributions with hardened kernels, research the current reccomendation at the time that you deploy your software.
+* For secure or stripped-down Linux distributions with hardened kernels, research the current recommendation at the time that you deploy your software.
 
 ## Open-source secrets management
 
