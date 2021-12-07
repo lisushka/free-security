@@ -2,7 +2,7 @@
 
 ## Presentations
 
-- **SeaGL 2021**, 2021-11-06 (not yet uploaded, [transcript](transcript.md))
+- [**SeaGL 2021**](https://seagl.org/archive/2021/free-security-for-open-source-projects), 2021-11-06 (open captions, [transcript](transcript.md))
 
 ## Graphical Recording
 
