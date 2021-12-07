@@ -4,6 +4,10 @@
 
 - **SeaGL 2021**, 2021-11-06 (not yet uploaded, [transcript](transcript.md))
 
+## Graphical Recording
+
+![A hand-drawn mind map of Free Security for Open-Source Projects.  The main themes, which match the subheadings in the References section below, are separated out into groups.  How to Breach a System is illustrated with a red-haired woman sitting at a computer with an intense look, open-source and closed-source security tooling are illustrated with an open and closed door respectively, and secure platforms are illustrated with a computer that has a padlock in place of a keyboard saying 'I got this'.](free-security-graphic.jpg "Graphical representation of Free Security for Open-Source Projects")
+
 ## References
 
 ### Attacks that have actually happened
